@@ -1,6 +1,6 @@
 !
 ! Title: Tiktok
-! Last modified: 2025-01-20T05:18:29.556Z
+! Last modified: 2025-01-20T21:42:27.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -110,3 +110,4 @@
 ||verification-va.byteoversea.com^
 ||xlog-va.byteoversea.com^
 ||xlog.tiktokv.com.edgesuite.net^
+||likee.video^
