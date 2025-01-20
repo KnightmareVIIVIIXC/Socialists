@@ -1,0 +1,21 @@
+!
+! Title: Reddit
+! Last modified: 2025-01-20T05:18:28.296Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.34
+!
+||amp-reddit-com.cdn.ampproject.org^
+||i.reddituploads.com^
+||redd.it^
+||reddit-image.s3.amazonaws.com^
+||reddit-stream.com^
+||reddit-uploaded-media.s3-accelerate.amazonaws.com^
+||reddit-uploaded-video.s3-accelerate.amazonaws.com^
+||reddit.com^
+||reddit.map.fastly.net^
+||redditblog.com^
+||redditgifts.com^
+||redditgifts.s3.amazonaws.com^
+||redditmedia.com^
+||www.redditinc.com^
+||www.redditstatic.com^
