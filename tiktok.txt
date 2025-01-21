@@ -1,6 +1,6 @@
 !
 ! Title: Tiktok
-! Last modified: 2025-01-21T04:25:37.766Z
+! Last modified: 2025-01-21T04:38:10.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -18,19 +18,8 @@
 ||musemuse.cn^
 ||musical.ly^
 ||musically.ly^
-||p1-tt-ipv6.byteimg.com^
-||p1-tt.byteimg.com^
-||p16-ad-sg.ibyteimg.com^
-||p16-tiktok-sg.ibyteimg.com^
-||p16-tiktok-sign-va-h2.ibyteimg.com^
-||p16-tiktok-va-h2.ibyteimg.com^
-||p16-tiktok-va.ibyteimg.com^
 ||p16-tiktokcdn-com.akamaized.net^
-||p16-va-tiktok.ibyteimg.com^
 ||p16.hypstarcdn.com^
-||p26-tt.byteimg.com^
-||p3-tt-ipv6.byteimg.com^
-||p9-tt.byteimg.com^
 ||pull-f3-hs.pstatp.com^
 ||pull-f5-hs.flive.pstatp.com^
 ||pull-f5-hs.pstatp.com^
@@ -97,4 +86,6 @@
 ||xlog.tiktokv.com.edgesuite.net^
 ||byteoversea.com^
 ||byteoversea.net^
+||byteimg.com^
+||ibyteimg.com^
 ||likee.video^
