@@ -1,19 +1,15 @@
 !
 ! Title: Tiktok
-! Last modified: 2025-01-21T04:38:10.237Z
+! Last modified: 2025-01-21T05:07:51.146Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||byteglb.com^
 ||dm.bytedance.com^
-||gecko-va.tiktokv.com.edgesuite.net^
 ||ibytedtos.com^
 ||isnssdk.com^
 ||lf1-ttcdn-tos.pstatp.com^
 ||log-va.tiktokv.com.edgekey.net^
-||log.tiktokv.com.edgesuite.net^
-||mon-va.tiktokv.com.edgesuite.net^
-||mon.tiktokv.com.edgesuite.net^
 ||muscdn.com^
 ||musemuse.cn^
 ||musical.ly^
@@ -83,9 +79,9 @@
 ||ttoverseaus.net^
 ||ttwstatic.com^
 ||v16-tiktokcdn-com.akamaized.net^
-||xlog.tiktokv.com.edgesuite.net^
 ||byteoversea.com^
 ||byteoversea.net^
 ||byteimg.com^
 ||ibyteimg.com^
+||tiktokv.com.edgesuite.net^
 ||likee.video^
