@@ -1,24 +1,18 @@
 !
 ! Title: Tiktok
-! Last modified: 2025-01-20T21:42:27.133Z
+! Last modified: 2025-01-21T04:25:37.766Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
-||abtest-sg-tiktok.byteoversea.com^
-||abtest-va-tiktok.byteoversea.com^
 ||byteglb.com^
-||dm-maliva16.byteoversea.com^
 ||dm.bytedance.com^
 ||gecko-va.tiktokv.com.edgesuite.net^
-||gts.byteoversea.net^
 ||ibytedtos.com^
 ||isnssdk.com^
 ||lf1-ttcdn-tos.pstatp.com^
 ||log-va.tiktokv.com.edgekey.net^
 ||log.tiktokv.com.edgesuite.net^
-||mon-va.byteoversea.com^
 ||mon-va.tiktokv.com.edgesuite.net^
-||mon.byteoversea.com^
 ||mon.tiktokv.com.edgesuite.net^
 ||muscdn.com^
 ||musemuse.cn^
@@ -53,18 +47,11 @@
 ||pull-rtmp-l1-hs.pstatp.com^
 ||pull-rtmp-l1-mus.pstatp.com^
 ||pull-rtmp-l6-hs.pstatp.com^
-||quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net^
-||quic-tiktok-proxy-i18n-gcpva.byteoversea.net^
 ||sf1-ttcdn-tos.pstatp.com^
 ||sf16-ttcdn-tos.ipstatp.com^
 ||sf6-ttcdn-tos.pstatp.com^
-||sgali3.l.byteoversea.net^
 ||sgsnssdk.com^
-||tiktok-lb-alisg.byteoversea.net^
-||tiktok-lb-maliva.byteoversea.net^
 ||tiktok-lb-texas.useast5.byteoversea.net.byteigtm.com^
-||tiktok-platform-lb-alisg.byteoversea.net^
-||tiktok-platform-lb-maliva.byteoversea.net^
 ||tiktok.com^
 ||tiktok.in^
 ||tiktok.org^
@@ -107,7 +94,7 @@
 ||ttoverseaus.net^
 ||ttwstatic.com^
 ||v16-tiktokcdn-com.akamaized.net^
-||verification-va.byteoversea.com^
-||xlog-va.byteoversea.com^
 ||xlog.tiktokv.com.edgesuite.net^
+||byteoversea.com^
+||byteoversea.net^
 ||likee.video^
