@@ -1,18 +1,16 @@
 !
 ! Title: Pinterest
-! Last modified: 2025-01-20T05:18:27.871Z
+! Last modified: 2025-01-21T05:05:27.912Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||dualstack.pinterest.map.fastly.net^
-||i.pinimg.com.edgekey.net^
 ||pin.it^
 ||pinimg.com^
 ||pinterest.com^
 ||prod.pinterest.global.map.fastly.net^
-||s.pinimg.com.edgekey.net^
-||v.pinimg.com.edgekey.net^
 ||www.pinterest.ch^
 ||www.pinterest.com.au^
 ||www.pinterest.com.edgekey.net^
 ||www.pinterest.fr^
+||pinimg.com.edgekey.net^
