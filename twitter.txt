@@ -1,41 +1,17 @@
 !
 ! Title: Twitter
-! Last modified: 2025-01-20T05:18:30.401Z
+! Last modified: 2025-01-21T04:31:06.536Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
-||abs.twimg.com^
 ||ads-twitter.com^
-||amp.twimg.com^
 ||d2rdfnizen5apl.cloudfront.net^
-||dnt.twimg.com^
-||ea.twimg.com^
-||g.twimg.com^
-||g2.twimg.com^
-||gu.twimg.com^
-||hca.twimg.com^
-||image-proxy-origin.twimg.com^
-||jp.twimg.com^
-||ma.twimg.com^
-||ma0.twimg.com^
-||ma1.twimg.com^
-||ma2.twimg.com^
-||ma3.twimg.com^
-||o.twimg.com^
-||p.twimg.com^
-||pbs.twimg.com^
-||r.twimg.com^
-||s.twimg.com^
 ||ssl2.twitter.com.edgekey.net^
-||syndication-o.twimg.com^
-||syndication.twimg.com^
 ||t.co^
-||tailfeather.twimg.com^
-||ton.twimg.com^
 ||twimg0-0.akamaihd.net^
 ||twitter.co^
 ||twitter.com^
 ||twitter.de^
 ||twitter.map.fastly.net^
-||widgets.twimg.com^
 ||x.com^
+||twimg.com^
