@@ -1,7 +1,8 @@
 !
 ! Title: Threads
-! Last modified: 2025-01-20T05:18:29.127Z
+! Last modified: 2025-01-21T00:50:52.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||threads.net^
+||threads.com^
