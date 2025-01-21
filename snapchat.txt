@@ -1,6 +1,6 @@
 !
 ! Title: Snapchat
-! Last modified: 2025-01-20T22:25:45.425Z
+! Last modified: 2025-01-21T04:48:33.247Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -8,23 +8,14 @@
 ||snap.com^
 ||feelinsonice-mvm.l.google.com^
 ||feelinsonice-hrd.appspot.com^
-||api.snapkit.com^
+||snapkit.com^
 ||sc-cdn.net^
-||st.sc-jpl.com^
-||gtq.sct.sc-prod.net^
-||gtq6.sct.sc-prod.net^
-||am-prod.sc-jpl.com^
+||sc-prod.net^
 ||images.bitmoji.com^
-||us-east1-aws.api.sc-gw.com^
 ||snap-storage-cdn.l.google.com^
 ||snap.events.mapbox.com^
-||ms.sc-jpl.com^
 ||snap.api.mapbox.com^
-||st-lb.sc-jpl.com^
-||loc.sc-jpl.com^
 ||cognac-prod.appspot.com^
-||scm.sc-jpl.com^
-||us-central1-gcp.api.sc-gw.com^
 ||map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com^
 ||snapchat.appspot.com^
 ||sc-analytics.appspot.com^
@@ -32,14 +23,10 @@
 ||feelinsonice.com^
 ||appspot.l.google.com^
 ||data.flurry.com^
-||ase.adserver.snapads.com^
-||euw.adserver.snapads.com^
-||use.adserver.snapads.com^
-||usc.adserver.snapads.com^
+||snapads.com^
 ||gtq.sct.sc-prod.ne^
 ||tib.snssdk.com^
-||loca.sc-jpl.com^
 ||d3cwhzzyyewihk.cloudfront.net^
-||internal-api.snapkit.com^
-||eu-west1-aws.duplex.sc-gw.com^
 ||snapchat-proxy.appspot.com^
+||sc-gw.com^
+||sc-jpl.com^
