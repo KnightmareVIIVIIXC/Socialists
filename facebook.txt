@@ -1,6 +1,6 @@
 !
 ! Title: Facebook
-! Last modified: 2025-01-21T04:08:02.934Z
+! Last modified: 2025-01-21T05:16:51.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
