@@ -1,5 +1,5 @@
 <div align="center">
   
-![](https://github.com/user-attachments/assets/a3a68d94-117b-4986-8aff-5fb79fdafdfb)
+![](https://github.com/user-attachments/assets/b9d9a898-bb0e-49d3-ac92-c9a33837526f)
 
 </div>
