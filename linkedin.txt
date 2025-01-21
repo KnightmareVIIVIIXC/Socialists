@@ -1,21 +1,8 @@
 !
 ! Title: Linkedin
-! Last modified: 2025-01-20T05:18:27.019Z
+! Last modified: 2025-01-21T00:55:06.250Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
-||dms-akam.licdn.com^
-||dms.licdn.com^
 ||linkedin.com^
-||media-akam.licdn.com^
-||media-ecst.licdn.com^
-||media-exp1.licdn.com^
-||media-exp3.licdn.com^
-||media.licdn.com^
-||snap.licdn.com^
-||static-akam.licdn.com^
-||static-azur.licdn.com^
-||static-ecst.licdn.com^
-||static-od.licdn.com^
-||static.licdn.com^
-||www.licdn.com^
+||licdn.com^
