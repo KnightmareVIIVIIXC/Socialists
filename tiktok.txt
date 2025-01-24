@@ -1,11 +1,10 @@
 !
 ! Title: Tiktok
-! Last modified: 2025-01-21T05:16:55.492Z
+! Last modified: 2025-01-24T14:38:26.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||byteglb.com^
-||dm.bytedance.com^
 ||ibytedtos.com^
 ||isnssdk.com^
 ||lf1-ttcdn-tos.pstatp.com^
@@ -36,7 +35,6 @@
 ||sf16-ttcdn-tos.ipstatp.com^
 ||sf6-ttcdn-tos.pstatp.com^
 ||sgsnssdk.com^
-||tiktok-lb-texas.useast5.byteoversea.net.byteigtm.com^
 ||tiktok.com^
 ||tiktok.in^
 ||tiktok.org^
@@ -49,8 +47,6 @@
 ||tiktokcdn-us.com.c.worldfcdn2.com^
 ||tiktokcdn.com^
 ||tiktokcdn.com.atomile.com^
-||tiktokcdn.com.c.bytefcdn-oversea.com^
-||tiktokcdn.com.c.bytefcdn-ttpeu.com^
 ||tiktokcdn.com.c.bytetcdn.com^
 ||tiktokcdn.com.c.worldfcdn.com^
 ||tiktokcdn.com.qlivecdn.com^
@@ -63,7 +59,6 @@
 ||tiktokshop.com^
 ||tiktokstaticb.com^
 ||tiktokv.com^
-||tiktokv.com.c.bytefcdn-oversea.com^
 ||tiktokv.com.c.worldfcdn.com^
 ||tiktokv.com.c.worldfcdn2.com^
 ||tiktokv.eu^
@@ -73,7 +68,6 @@
 ||ttapis.com^
 ||ttdns2.com^
 ||ttlivecdn.com^
-||ttlivecdn.com.c.bytefcdn-oversea.com^
 ||ttlivecdn.com.c.worldfcdn.com^
 ||ttoversea.net^
 ||ttoverseaus.net^
@@ -84,4 +78,28 @@
 ||byteimg.com^
 ||ibyteimg.com^
 ||tiktokv.com.edgesuite.net^
+||bytecdn.cn^
+||byted.org^
+||bytedance.com^
+||bytedance.map.fastly.net^
+||bytedapm.com^
+||bytedns.net^
+||bytefcdn-oversea.com^
+||bytefcdn-ttpeu.com^
+||byteigtm.com^
+||bytewlb.akadns.net^
+||capcut.com^
+||doubao.com^
+||musica.ly^
+||musical.ly.edgekey.net^
+||musical.ly.edgesuite.net^
+||oecstatic.com^
+||tiktok.net^
+||tiktokcdn.com.akamaized.net^
+||tiktokcdn.com.wsdvs.com^
+||tiktokcdn.liveplay.myqcloud.com^
+||ttdns1.com^
+||ttdns3.com^
+||ttdns4.com^
+||yhgfb-static.com^
 ||likee.video^
