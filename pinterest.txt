@@ -1,6 +1,6 @@
 !
 ! Title: Pinterest
-! Last modified: 2025-01-21T05:16:53.749Z
+! Last modified: 2025-01-24T14:47:25.221Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -9,8 +9,38 @@
 ||pinimg.com^
 ||pinterest.com^
 ||prod.pinterest.global.map.fastly.net^
-||www.pinterest.ch^
-||www.pinterest.com.au^
-||www.pinterest.com.edgekey.net^
-||www.pinterest.fr^
+||pinterest.com.edgekey.net^
 ||pinimg.com.edgekey.net^
+||pinterest.at^
+||pinterest.ca^
+||pinterest.ch^
+||pinterest.cl^
+||pinterest.co.kr^
+||pinterest.co.uk^
+||pinterest.co.za^
+||pinterest.com.ar^
+||pinterest.com.au^
+||pinterest.com.br^
+||pinterest.com.co^
+||pinterest.com.sg^
+||pinterest.com.tr^
+||pinterest.com.tw^
+||pinterest.com.ua^
+||pinterest.cz^
+||pinterest.de^
+||pinterest.dk^
+||pinterest.es^
+||pinterest.fi^
+||pinterest.fr^
+||pinterest.hu^
+||pinterest.ie^
+||pinterest.in^
+||pinterest.it^
+||pinterest.jp^
+||pinterest.nl^
+||pinterest.no^
+||pinterest.ph^
+||pinterest.pl^
+||pinterest.ro^
+||pinterest.ru^
+||pinterest.se^
