@@ -4,11 +4,11 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
-||dualstack.pinterest.map.fastly.net^
+||pinterest.map.fastly.net^
 ||pin.it^
 ||pinimg.com^
 ||pinterest.com^
-||prod.pinterest.global.map.fastly.net^
+||pinterest.global.map.fastly.net^
 ||pinterest.com.edgekey.net^
 ||pinimg.com.edgekey.net^
 ||pinterest.at^
