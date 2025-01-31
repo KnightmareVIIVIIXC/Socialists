@@ -1,6 +1,6 @@
 !
 ! Title: Whatsapp
-! Last modified: 2025-01-21T05:16:56.782Z
+! Last modified: 2025-01-31T16:20:11.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !

@@ -1,6 +1,6 @@
 !
 ! Title: Tiktok
-! Last modified: 2025-01-24T14:38:26.222Z
+! Last modified: 2025-01-31T16:20:09.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -73,11 +73,6 @@
 ||ttoverseaus.net^
 ||ttwstatic.com^
 ||v16-tiktokcdn-com.akamaized.net^
-||byteoversea.com^
-||byteoversea.net^
-||byteimg.com^
-||ibyteimg.com^
-||tiktokv.com.edgesuite.net^
 ||bytecdn.cn^
 ||byted.org^
 ||bytedance.com^
@@ -87,9 +82,13 @@
 ||bytefcdn-oversea.com^
 ||bytefcdn-ttpeu.com^
 ||byteigtm.com^
+||byteimg.com^
+||byteoversea.com^
+||byteoversea.net^
 ||bytewlb.akadns.net^
 ||capcut.com^
 ||doubao.com^
+||ibyteimg.com^
 ||musica.ly^
 ||musical.ly.edgekey.net^
 ||musical.ly.edgesuite.net^
@@ -98,6 +97,7 @@
 ||tiktokcdn.com.akamaized.net^
 ||tiktokcdn.com.wsdvs.com^
 ||tiktokcdn.liveplay.myqcloud.com^
+||tiktokv.com.edgesuite.net^
 ||ttdns1.com^
 ||ttdns3.com^
 ||ttdns4.com^
