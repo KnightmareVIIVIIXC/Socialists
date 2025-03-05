@@ -1,8 +1,8 @@
 !
 ! Title: Twitter
-! Last modified: 2025-01-31T16:20:10.721Z
+! Last modified: 2025-03-05T18:49:07.759Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||ads-twitter.com^
 ||d2rdfnizen5apl.cloudfront.net^

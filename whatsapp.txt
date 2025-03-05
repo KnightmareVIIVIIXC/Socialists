@@ -1,8 +1,8 @@
 !
 ! Title: Whatsapp
-! Last modified: 2025-01-31T16:20:11.149Z
+! Last modified: 2025-03-05T18:49:08.184Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||whatsapp-cdn-shv-01-arn2.fbcdn.net^
 ||whatsapp-cdn-shv-01-atl1.fbcdn.net^
