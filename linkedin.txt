@@ -1,8 +1,8 @@
 !
 ! Title: Linkedin
-! Last modified: 2025-03-05T18:49:04.401Z
+! Last modified: 2025-03-21T21:37:20.851Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v1.0.38
 !
 ||linkedin.com^
 ||licdn.com^

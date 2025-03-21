@@ -1,8 +1,8 @@
 !
 ! Title: Instagram
-! Last modified: 2025-03-05T18:49:03.988Z
+! Last modified: 2025-03-21T21:37:20.376Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v1.0.38
 !
 ||cdninstagram.com^
 ||instagr.am^
