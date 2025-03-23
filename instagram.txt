@@ -1,6 +1,6 @@
 !
 ! Title: Instagram
-! Last modified: 2025-03-21T21:37:20.376Z
+! Last modified: 2025-03-23T01:09:43.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !

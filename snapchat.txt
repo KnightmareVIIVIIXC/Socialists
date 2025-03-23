@@ -1,10 +1,9 @@
 !
 ! Title: Snapchat
-! Last modified: 2025-03-21T21:37:22.748Z
+! Last modified: 2025-03-23T01:09:46.322Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
-snapchat-com
 ||snapchat.com^
 ||snap.com^
 ||feelinsonice-mvm.l.google.com^
